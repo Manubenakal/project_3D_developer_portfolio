@@ -49,14 +49,14 @@ const services = [
     title: 'Full Stack Developer',
     icon: mobile,
   },
-  // {
-  //   title: 'Frontend Developer',
-  //   icon: backend,
-  // },
-  // {
-  //   title: 'Backend Developer',
-  //   icon: creator,
-  // },
+  {
+    title: 'Frontend Developer',
+    icon: backend,
+  },
+  {
+    title: 'Backend Developer',
+    icon: creator,
+  },
 ];
 
 const technologies = [
